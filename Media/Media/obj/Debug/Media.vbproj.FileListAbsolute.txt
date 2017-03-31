@@ -1,0 +1,11 @@
+C:\Users\Hareen-PL3\Desktop\Media\Media\bin\Debug\Media.exe.config
+C:\Users\Hareen-PL3\Desktop\Media\Media\bin\Debug\Media.exe
+C:\Users\Hareen-PL3\Desktop\Media\Media\bin\Debug\Media.pdb
+C:\Users\Hareen-PL3\Desktop\Media\Media\bin\Debug\Media.xml
+C:\Users\Hareen-PL3\Desktop\Media\Media\obj\Debug\Media.vbprojResolveAssemblyReference.cache
+C:\Users\Hareen-PL3\Desktop\Media\Media\obj\Debug\Media.Form1.resources
+C:\Users\Hareen-PL3\Desktop\Media\Media\obj\Debug\Media.Resources.resources
+C:\Users\Hareen-PL3\Desktop\Media\Media\obj\Debug\Media.vbproj.GenerateResource.Cache
+C:\Users\Hareen-PL3\Desktop\Media\Media\obj\Debug\Media.exe
+C:\Users\Hareen-PL3\Desktop\Media\Media\obj\Debug\Media.xml
+C:\Users\Hareen-PL3\Desktop\Media\Media\obj\Debug\Media.pdb
